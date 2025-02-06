@@ -1,0 +1,1 @@
+const numer:number = 1
