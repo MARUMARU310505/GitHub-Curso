@@ -1,1 +1,2 @@
-const numer:number = 1
+const numer:number = 1;
+const string:string = 'string';
