@@ -1,0 +1,5 @@
+ls :		para ver todos los directorios que hay disponibles
+cd y tab : 	para cambiar a un entre directorios
+cd.. :		regresar en directrorio
+pwd : 		me dira donde me encuentro
+mkdir "carpeta" :	para crear una nueva carpeta
